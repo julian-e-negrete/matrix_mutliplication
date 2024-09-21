@@ -1,8 +1,8 @@
 ### Description
-you only have to execute the .exe file that has been already compiled and if you want to check the logic of the program you just have to take a look at the .cpp file
+you only have to execute the .exe file that has been already compiled and if you want to check the logic of the program you just have to take a look at the .cpp file.
 
 ### Dimensions
-// remember that a multiplication of two matrices is posible when the matrix B hast the same number of rows as the numbers of columns in A  
+// remember that a multiplication of two matrices is posible when the matrix B hast the same number of rows as the numbers of columns in A.  
 A = m x n  
 B = n x p  
 C = m x p  
