@@ -9,7 +9,7 @@ B = n x p
 C = m x p
 
 
-Inline: $C_{ij} = \sum_{k=1}^{n} A_{ik} \times B_{kj}$
+$C_{ij} = \sum_{k=1}^{n} A_{ik} \times B_{kj}$
 
  i = m
  j = p
