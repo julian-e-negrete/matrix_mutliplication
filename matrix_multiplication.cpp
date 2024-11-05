@@ -15,12 +15,11 @@ int main()
 
     int rows = 2 , cols= 2;
 
-    std::vector<std::vector<int>> matrix1(rows, std::vector<int>(cols, 0));
-    std::vector<std::vector<int>> matrix2(rows, std::vector<int>(cols, 0));
+  
 
-    matrix1 = EnterMatrix();
+    std::vector<std::vector<int>> matrix1 = EnterMatrix();
 
-    matrix2 = EnterMatrix();
+    std::vector<std::vector<int>> matrix2 = EnterMatrix();
 
     /*
     matrix1 =   {{1, 2},
